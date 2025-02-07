@@ -53,5 +53,7 @@ main(){
     {
           cout << Sum[i] << endl;
     }
+
+    return 0;
     
 }
